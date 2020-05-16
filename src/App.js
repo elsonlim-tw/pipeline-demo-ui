@@ -16,5 +16,3 @@ function App() {
 }
 
 export default App;
-
-[Supported Runtime Environment]('https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref-available.html')
